@@ -1,4 +1,4 @@
-[**capacitor-thermal-printer**](../README.md) • **Docs**
+[**capacitor-thermal-printer**](../README.md)
 
 ***
 
@@ -10,5 +10,5 @@
 
 | Property | Type |
 | ------ | ------ |
-| `name` | `string` |
-| `address` | `string` |
+| <a id="name"></a> `name` | `string` |
+| <a id="address"></a> `address` | `string` |

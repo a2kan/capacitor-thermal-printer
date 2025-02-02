@@ -1,4 +1,4 @@
-[**capacitor-thermal-printer**](../README.md) • **Docs**
+[**capacitor-thermal-printer**](../README.md)
 
 ***
 
@@ -6,4 +6,4 @@
 
 # Variable: PrinterFonts
 
-> `const` **PrinterFonts**: readonly [`"A"`, `"B"`]
+> `const` **PrinterFonts**: readonly \[`"A"`, `"B"`\]

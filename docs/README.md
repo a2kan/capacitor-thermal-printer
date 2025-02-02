@@ -1,4 +1,4 @@
-**capacitor-thermal-printer** • **Docs**
+**capacitor-thermal-printer**
 
 ***
 

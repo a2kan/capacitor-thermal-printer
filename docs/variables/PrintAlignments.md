@@ -1,4 +1,4 @@
-[**capacitor-thermal-printer**](../README.md) • **Docs**
+[**capacitor-thermal-printer**](../README.md)
 
 ***
 
@@ -6,4 +6,4 @@
 
 # Variable: PrintAlignments
 
-> `const` **PrintAlignments**: readonly [`"left"`, `"center"`, `"right"`]
+> `const` **PrintAlignments**: readonly \[`"left"`, `"center"`, `"right"`\]

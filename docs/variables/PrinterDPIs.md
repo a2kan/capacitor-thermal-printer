@@ -1,4 +1,4 @@
-[**capacitor-thermal-printer**](../README.md) • **Docs**
+[**capacitor-thermal-printer**](../README.md)
 
 ***
 
@@ -6,4 +6,4 @@
 
 # Variable: PrinterDPIs
 
-> `const` **PrinterDPIs**: readonly [`200`, `300`]
+> `const` **PrinterDPIs**: readonly \[`200`, `300`\]

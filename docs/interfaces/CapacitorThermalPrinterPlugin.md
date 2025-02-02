@@ -1,4 +1,4 @@
-[**capacitor-thermal-printer**](../README.md) • **Docs**
+[**capacitor-thermal-printer**](../README.md)
 
 ***
 
@@ -36,7 +36,7 @@
 
 | Parameter | Type |
 | ------ | ------ |
-| `options` | `object` |
+| `options` | \{ `address`: `string`; \} |
 | `options.address` | `string` |
 
 #### Returns
@@ -67,7 +67,7 @@
 
 ### addListener()
 
-#### addListener(event, handler)
+#### Call Signature
 
 > **addListener**(`event`, `handler`): `Promise`\<`PluginListenerHandle`\>
 
@@ -88,7 +88,7 @@ Emitted when new devices are discovered.
 
 If you're using Angular as your framework of choice, the handler doesn't run in zone.
 
-#### addListener(event, handler)
+#### Call Signature
 
 > **addListener**(`event`, `handler`): `Promise`\<`PluginListenerHandle`\>
 
@@ -114,7 +114,7 @@ If you're using Angular as your framework of choice, the handler doesn't run in 
  - [`CapacitorThermalPrinterPlugin.startScan`](CapacitorThermalPrinterPlugin.md#startscan)
  - [`CapacitorThermalPrinterPlugin.stopScan`](CapacitorThermalPrinterPlugin.md#stopscan)
 
-#### addListener(event, handler)
+#### Call Signature
 
 > **addListener**(`event`, `handler`): `Promise`\<`PluginListenerHandle`\>
 
@@ -135,7 +135,7 @@ Emitted when a printer is successfully connected.
 
 If you're using Angular as your framework of choice, the handler doesn't run in zone.
 
-#### addListener(event, handler)
+#### Call Signature
 
 > **addListener**(`event`, `handler`): `Promise`\<`PluginListenerHandle`\>
 
